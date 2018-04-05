@@ -1,0 +1,13 @@
+.front-card {
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
